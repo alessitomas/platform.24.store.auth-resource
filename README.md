@@ -1,1 +1,1 @@
-# platform.241.store.auth-resource
+# platform.24.store.auth-resource
